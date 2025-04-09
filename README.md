@@ -55,7 +55,7 @@
 ### Запуск из исходников
 1. Клонируйте репозиторий и перейдите в каталог проекта:
    ```bash
-   git clone https://github.com/your_username/kasadoru.git
+   git clone https://github.com/cryals/mouse_mover.git
    cd kasadoru
    ```
 2. Установите зависимости:
